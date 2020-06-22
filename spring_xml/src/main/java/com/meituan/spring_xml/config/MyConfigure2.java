@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Configuration;
  * @Descirption:配置类
  */
 @Configuration
+//修改后提交
 public class MyConfigure2 {
     @Bean
     //helloBean默认组件方法名
