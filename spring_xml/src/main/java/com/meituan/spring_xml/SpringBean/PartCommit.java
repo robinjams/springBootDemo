@@ -34,4 +34,6 @@ public class PartCommit {
      */
 
     //add fun3
+
+    //解决冲突
 }
