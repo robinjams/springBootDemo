@@ -7,5 +7,9 @@ package com.meituan.spring_xml.SpringBean;
  */
 public class Cat {
 
+
     //冲突2
+
+    //冲突1
+
 }
