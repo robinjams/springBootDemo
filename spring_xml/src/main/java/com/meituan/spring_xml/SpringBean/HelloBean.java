@@ -6,4 +6,6 @@ package com.meituan.spring_xml.SpringBean;
  * @Descirption:bean
  */
 public class HelloBean {
+  //github上添加内容
+
 }
