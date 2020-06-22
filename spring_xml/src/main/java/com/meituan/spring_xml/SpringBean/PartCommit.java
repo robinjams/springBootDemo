@@ -34,4 +34,6 @@ public class PartCommit {
      */
 
     //add fun3
+
+    //学习解决冲突，模拟两个人同时模拟，本地也同样修改
 }
