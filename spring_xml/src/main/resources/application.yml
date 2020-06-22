@@ -1,0 +1,21 @@
+server:
+  port: 8081
+person:
+  lastName: bin${random.int}
+  firstName: luo${person.lastName}
+  boss: false
+spring:
+  profiles:
+    active: pro
+---
+server:
+  port: 8084
+spring:
+  profiles: dev
+---
+
+server:
+  port: 8085
+spring:
+  profiles: pro
+---
