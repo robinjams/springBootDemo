@@ -32,6 +32,4 @@ public class PartCommit {
      * @CreateTime:2020-06-22
      * @Descirption:学习Git分支
      */
-
-    //add fun3
 }
