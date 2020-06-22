@@ -6,4 +6,6 @@ package com.meituan.spring_xml.SpringBean;
  * @Descirption:学习Git分支
  */
 public class Cat {
+
+    //冲突2
 }
